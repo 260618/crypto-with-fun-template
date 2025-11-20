@@ -39,7 +39,8 @@ Cryptography helps us protect information so only the right people can read it. 
 On miro board we have 5 games and their description. 
 
 **Crypto concept explained:**  
-These games teach core cryptographic terminology, the CIA Triad, and the difference between monoalphabetic and polyalphabetic ciphers—showing how classical cipher systems evolved and how modern security concepts connect to them.
+These activities explain key crypto terms, the CIA Triad, and classical cipher types, helping students connect historical methods with modern security concepts.
+
 ---
 
 ## 📝 Summary
