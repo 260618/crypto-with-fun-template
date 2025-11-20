@@ -8,7 +8,7 @@ This page contains our 3 interactive exercises on the topic **“History and Ter
 
 ---
 
-### 🟩 Exercise 1 – Terminology & Basics Quiz  
+### 🟩 Exercise 1 – Terminology & Basics Quiz   -- Eniola Adesuyi
 **Tool:** Kahoot  
 **Link:** [https://create.kahoot.it/my-library/kahoots/3d20e4c7-5bba-40e1-80c3-7a4138891c82]  
 **Description:**  
@@ -19,7 +19,7 @@ The history of cryptography explains how humans have protected information for t
 
 ---
 
-### 🟦 Exercise 2 – Cryptography Activity (Other Tool)  
+### 🟦 Exercise 2 – Cryptography Activity (Other Tool)   -- Thant Myat Mon
 **Tool:** Quizizz
 **Link:** [https://wayground.com/admin/presentation/6919a9a72df66e1c0fe2bf5d?source=lesson_share]  
 **Description:**  
@@ -31,21 +31,15 @@ Cryptography helps us protect information so only the right people can read it. 
 
 ---
 
-### 🟨 Exercise 3 – Miro Puzzle Pack (History & CIA)  
+### 🟨 Exercise 3 – Miro Puzzle Pack (History & CIA)   -- Tamerlan Jabiyev
 **Tool:** Miro  
-**Link:** [https://miro.com/app/board/uXjVJoV7gY4=/?share_link_id=256040404906]
+**Link:** [https://miro.com/app/board/uXjVJnKPIfM=/?share_link_id=887118566962]
 **Includes 2 mini-games in one board:**
 
-#### 1. Terminology Match  
-Match basic cryptography terms with their correct definitions by drawing lines between sticky notes.
-
-#### 2. CIA Triad Color Game  
-Change the color of each scenario sticky note to match the correct CIA category:  
-🟩 Confidentiality 🟦 Integrity 🩷 Authenticity
+On miro board we have 5 games and their description. 
 
 **Crypto concept explained:**  
-These mini-games reinforce the evolution of cryptography, basic terminology, and the CIA model in information security.
-
+These games teach core cryptographic terminology, the CIA Triad, and the difference between monoalphabetic and polyalphabetic ciphers—showing how classical cipher systems evolved and how modern security concepts connect to them.
 ---
 
 ## 📝 Summary
