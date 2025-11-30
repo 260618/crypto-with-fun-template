@@ -23,7 +23,7 @@ The history of cryptography explains how humans have protected information for t
 **Tool:** Quizizz
 **Link:** [https://wayground.com/admin/presentation/6919a9a72df66e1c0fe2bf5d?source=lesson_share]  
 **Description:**  
-Multiple choice and fill in the blank quizz that checks understanding of basic cryptography ideas.
+Total 12 exercises of multiple choice and fill in the blank quizz that checks understanding of basic cryptography ideas.
 
 
 **Crypto concept explained:**  
