@@ -34,9 +34,8 @@ Cryptography helps us protect information so only the right people can read it. 
 ### 🟨 Exercise 3 – Miro Puzzle Pack (History & CIA)   -- Tamerlan Jabiyev
 **Tool:** Miro  
 **Link:** [https://miro.com/app/board/uXjVJnKPIfM=/?share_link_id=887118566962]
-**Includes 2 mini-games in one board:**
-
-On miro board we have 5 games and their description. 
+**Description:** 
+On miro board we have 5 games and their description. In one board we can drag-drop games, true-false, and so on. 
 
 **Crypto concept explained:**  
 These activities explain key crypto terms, the CIA Triad, and classical cipher types, helping students connect historical methods with modern security concepts.
